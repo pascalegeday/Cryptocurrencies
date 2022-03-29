@@ -1,0 +1,2 @@
+# Cryptocurrencies
+For this project we will create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.  The data will be working with is not ideal, so it will need to be processed to fit the machine learning models. We will use unsupervised learning to group the cryptocurrencies on a clustering algorithm. Finally, we'll use data visualizations to share the findings with the board.
