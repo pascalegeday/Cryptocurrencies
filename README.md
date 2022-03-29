@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Cryptocurrencies - Unsupervised Machine Learning
 
 ## Overview
 For this project we will use unsupervised machine learning to analyze a cryptocurrencies database and create a report that shows the cryptocurrencies on the trading market and the ways in which they can be grouped by features to create a classification system. The data will be processed to fit the machine learning models, the data dimension reduced using Principal Component Analysis (PCA), and grouped on a clustering algorithm called K-Means. Finally, we'll use data visualizations to produce 2D and 3D scatter plots to show the clusters and their features.
