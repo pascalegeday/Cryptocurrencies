@@ -8,7 +8,7 @@ For this project we will use unsupervised machine learning to analyze a cryptocu
 - Software & Tools: Python, Jupyter Lab, SKlearn, Pandas, Plotly
 
 ## Results
-As a result of the the data being processed to fit the machine learning models, we are left with a total of 532 tradable cryptocurrencies.
+Once the data is processed to fit the machine learning models, we are left with a total of 532 tradable cryptocurrencies.
 <br><br>
 <p align="center">
 <img width="294" alt="Screen Shot 2022-03-28 at 10 54 18 PM" src="https://user-images.githubusercontent.com/94571150/160542834-b01d21ca-1a2d-45c1-a073-3696bb0177e3.png">
